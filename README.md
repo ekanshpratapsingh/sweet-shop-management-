@@ -160,25 +160,25 @@ npm run test:coverage      # Run tests with coverage report
 ## 📱 Application Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1233" height="900" alt="image" src="https://github.com/user-attachments/assets/a96a60cb-4c5d-4f47-b087-40e23404df9f" />
-)
+![Home Page]<img width="1233" height="900" alt="image" src="https://github.com/user-attachments/assets/a96a60cb-4c5d-4f47-b087-40e23404df9f" />
+
 *Browse available sweets with search and filter capabilities*
 
 ### 🔐 Authentication
-![Login Page](<img width="1751" height="906" alt="image" src="https://github.com/user-attachments/assets/de16a5ff-7bcc-4442-9b6e-5950b97b8fda" />
-), <img width="1541" height="904" alt="image" src="https://github.com/user-attachments/assets/9e570820-2831-4c95-9b7e-09d4f71a377a" />
+![Login Page]<img width="1751" height="906" alt="image" src="https://github.com/user-attachments/assets/de16a5ff-7bcc-4442-9b6e-5950b97b8fda" /> <img width="1541" height="904" alt="image" src="https://github.com/user-attachments/assets/9e570820-2831-4c95-9b7e-09d4f71a377a" />
 
 *Secure user authentication with form validation*
 
 ### 👨‍💼 Admin Dashboard
-![Admin Dashboard](<img width="1131" height="908" alt="image" src="https://github.com/user-attachments/assets/87bf2715-5283-4956-99b4-aab4b6a7b8a3" />
-), <img width="1171" height="733" alt="image" src="https://github.com/user-attachments/assets/d9261340-882b-49a7-ae0b-31ce6eecd7b2" />, <img width="1001" height="906" alt="image" src="https://github.com/user-attachments/assets/cc0c9ec7-461d-4029-a5bd-484412bc42d9" />
+![Admin Dashboard]<img width="1131" height="908" alt="image" src="https://github.com/user-attachments/assets/87bf2715-5283-4956-99b4-aab4b6a7b8a3" />
+<img width="1171" height="733" alt="image" src="https://github.com/user-attachments/assets/d9261340-882b-49a7-ae0b-31ce6eecd7b2" />, <img width="1001" height="906" alt="image" src="https://github.com/user-attachments/assets/cc0c9ec7-461d-4029-a5bd-484412bc42d9" />
 
 
 *Comprehensive admin interface for inventory management*
 
 ### ➕ Add New Sweet
-![Add Sweet Form] ![Uploading image.png…]()
+![Add Sweet Form]<img width="977" height="901" alt="image" src="https://github.com/user-attachments/assets/e87af5f5-40b4-4552-ac21-b30b63bf4be4" />
+
 )
 *Form validation and real-time feedback for adding new items*
 
