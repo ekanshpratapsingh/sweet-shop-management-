@@ -63,7 +63,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/raheelhparekh/sweet-management-system.git
+   git clone https://github.com/Vikaskumar63-devops/sweet-shop-management.git
    cd sweet-management-system
    ```
 
