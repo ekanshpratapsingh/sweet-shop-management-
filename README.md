@@ -63,7 +63,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vikaskumar63-devops/sweet-shop-management.git
+   git clone https://github.com/ekanshpratapsingh/sweet-shop-management.git
    cd sweet-management-system
    ```
 
@@ -324,10 +324,10 @@ The application maintains high-quality standards with comprehensive testing:
 
 ## 👨‍💻 Author
 
-**Vikas Kumar**
-- GitHub: https://github.com/Vikaskumar63-devop
-- Project: https://github.com/Vikaskumar63-devops/sweet-shop-management
+**Ekansh Pratap Singh **
+- GitHub: https://github.com/ekanshpratapsingh
+- Project: https://github.com/ekanshpratapsingh/sweet-shop-management-
 
 
 
-*Built Vikas Kumar with ❤️ using the MERN stack and modern development practices*
+*Built with ❤️ using the MERN stack and modern development practices*
